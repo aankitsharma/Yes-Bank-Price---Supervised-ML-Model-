@@ -163,10 +163,10 @@ seaborn
 ## 📁 Project Structure
 
 ```
-├── yes_bank_evaluation_metrics.png   # Model comparison chart
 ├── README.md
 ├── Yes_Bank_Stock_Prediction.ipynb
-└── data_YesBank_StockPrices.csv  # Dataset 
+├── data_YesBank_StockPrices.csv  # Dataset
+└── yes_bank_evaluation_metrics.png   # Model comparison chart
 ```
 
 ---
